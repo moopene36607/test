@@ -215,7 +215,7 @@ un*frigging*believable
 \*this text is surrounded by literal asterisks\*
 程式碼
 
-如果要標記一小段行內程式碼，你可以用反引號把它包起來（`），例如：
+如果要標記一小段行內程式碼，你可以用反引號
 
 Use the `printf()` function.
 會產生：
